@@ -1,0 +1,1 @@
+console.log("Relate html with js for browser")
